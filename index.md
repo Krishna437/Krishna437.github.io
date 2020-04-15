@@ -34,6 +34,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
           <hr>
 
+          <div class="w3-container">
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Areas of Interest</b></p>
+          <p>VLSI, Embedded Systems</p>
+
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>Adobe Photoshop</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
