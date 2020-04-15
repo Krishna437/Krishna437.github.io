@@ -33,10 +33,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>krishna_s_menon@ieee.org</p>
           
           <hr>
-
-          <div class="w3-container">
+          
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Areas of Interest</b></p>
           <p>VLSI, Embedded Systems</p>
+          <br>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>Adobe Photoshop</p>
