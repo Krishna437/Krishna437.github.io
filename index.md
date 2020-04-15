@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
+I am Krishna S M, an engineering student at Cochin University of Science and Technology.
 You can use the [editor on GitHub](https://github.com/Krishna437/Krishna437.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
